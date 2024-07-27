@@ -1,0 +1,5 @@
+Userregister Table:
+CREATE TABLE userregister(FullName VARCHAR(100),UserName VARCHAR(30),PhoneNumber VARCHAR(10),password VARCHAR(50));
+
+menu Table:
+CREATE TABLE menu(ID VARCHAR(100),Dish VARCHAR(30),Price VARCHAR(10));
